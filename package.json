@@ -1,0 +1,28 @@
+{
+  "name": "provably-fair-non-transitive-dice-game",
+  "version": "1.0.0",
+  "description": "A console-based non-transitive dice game.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PinkPeonyD/Provably-Fair-Non-Transitive-Dice-Game.git"
+  },
+  "keywords": [
+    "game",
+    "dice",
+    "non-transitive"
+  ],
+  "author": "Daria Shamraeva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PinkPeonyD/Provably-Fair-Non-Transitive-Dice-Game/issues"
+  },
+  "homepage": "https://github.com/PinkPeonyD/Provably-Fair-Non-Transitive-Dice-Game#readme",
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "readline-sync": "^1.4.10"
+  }
+}
